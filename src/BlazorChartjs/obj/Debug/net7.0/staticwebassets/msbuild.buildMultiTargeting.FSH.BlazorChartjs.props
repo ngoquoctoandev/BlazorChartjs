@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FSH.BlazorChartjs.props" />
+</Project>

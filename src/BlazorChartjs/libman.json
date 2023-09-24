@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "Chart.js@4.4.0",
+      "destination": "wwwroot/lib/Chart.js/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "chartjs-plugin-datalabels@2.2.0",
+      "destination": "wwwroot/lib/chartjs-plugin-datalabels/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "chartjs-plugin-zoom@2.0.1",
+      "destination": "wwwroot/lib/chartjs-plugin-zoom/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "hammer.js@2.0.8",
+      "destination": "wwwroot/lib/hammer.js/"
+    }
+  ]
+}

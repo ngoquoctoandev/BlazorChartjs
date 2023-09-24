@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "Of+4+wmlobyV5dFcDzvwqmbBUiLAzehv0LTg7DbkjP8=",
+  "Source": "FSH.BlazorChartjs",
+  "BasePath": "_content/FSH.BlazorChartjs",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FSH.BlazorChartjs\\wwwroot",
+      "Source": "FSH.BlazorChartjs",
+      "ContentRoot": "D:\\Dev\\Projects\\CSharp\\Web\\BlazorChartjs\\src\\BlazorChartjs\\wwwroot\\",
+      "BasePath": "_content/FSH.BlazorChartjs",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Dev\\Projects\\CSharp\\Web\\BlazorChartjs\\src\\BlazorChartjs\\obj\\Debug\\net7.0\\scopedcss\\bundle\\FSH.BlazorChartjs.styles.css",
+      "SourceId": "FSH.BlazorChartjs",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Dev\\Projects\\CSharp\\Web\\BlazorChartjs\\src\\BlazorChartjs\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/FSH.BlazorChartjs",
+      "RelativePath": "FSH.BlazorChartjs.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Dev\\Projects\\CSharp\\Web\\BlazorChartjs\\src\\BlazorChartjs\\obj\\Debug\\net7.0\\scopedcss\\bundle\\FSH.BlazorChartjs.styles.css"
+    },
+    {
+      "Identity": "D:\\Dev\\Projects\\CSharp\\Web\\BlazorChartjs\\src\\BlazorChartjs\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FSH.BlazorChartjs.bundle.scp.css",
+      "SourceId": "FSH.BlazorChartjs",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Dev\\Projects\\CSharp\\Web\\BlazorChartjs\\src\\BlazorChartjs\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/FSH.BlazorChartjs",
+      "RelativePath": "FSH.BlazorChartjs.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Dev\\Projects\\CSharp\\Web\\BlazorChartjs\\src\\BlazorChartjs\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FSH.BlazorChartjs.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Dev\\Projects\\CSharp\\Web\\BlazorChartjs\\src\\BlazorChartjs\\wwwroot\\background.png",
+      "SourceId": "FSH.BlazorChartjs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Dev\\Projects\\CSharp\\Web\\BlazorChartjs\\src\\BlazorChartjs\\wwwroot\\",
+      "BasePath": "_content/FSH.BlazorChartjs",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "D:\\Dev\\Projects\\CSharp\\Web\\BlazorChartjs\\src\\BlazorChartjs\\wwwroot\\blazorchart.js",
+      "SourceId": "FSH.BlazorChartjs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Dev\\Projects\\CSharp\\Web\\BlazorChartjs\\src\\BlazorChartjs\\wwwroot\\",
+      "BasePath": "_content/FSH.BlazorChartjs",
+      "RelativePath": "blazorchart.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\blazorchart.js"
+    }
+  ]
+}
